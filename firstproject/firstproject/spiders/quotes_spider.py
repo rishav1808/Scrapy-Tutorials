@@ -23,4 +23,4 @@ class QuotesSpider(scrapy.Spider): #Inherits from the Spider class
         self.log(f'Saved file {filename}')
 
         
-#New
+#New #New1
